@@ -15,6 +15,4 @@ jobs:
         - name: Checkout repository
           uses: actions/checkout@v6.0.2
 
-        - name: List repo files
-          runs: dir /a
 
